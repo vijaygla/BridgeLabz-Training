@@ -70,5 +70,44 @@
 
 ---
 
-# Day-4 : 19 December 2025
-## Tasks Completed
+# Day-4: 19 December 2025  
+## Tasks Completed  
+
+1. **Understanding C# Architecture**
+   - Studied the overall architecture of C# and .NET
+   - Learned how source code is compiled into Intermediate Language (IL)
+   - Understood the role of the .NET execution pipeline
+
+2. **Common Intermediate Language (CIL)**
+   - Learned what CIL is and why it is platform-independent
+   - Understood how different .NET languages compile into CIL
+
+3. **Common Language Runtime (CLR)**
+   - Studied the responsibilities of CLR, including:
+     - Memory management
+     - Garbage collection
+     - Type safety
+     - Exception handling
+     - Code execution
+
+4. **C# Data Types**
+   - Covered all **Primitive (Value) Data Types**
+     - int, float, double, decimal, char, bool, etc.
+   - Covered **Non-Primitive (Reference) Data Types**
+     - string, array, class, object, interface, etc.
+   - Understood the difference between value types and reference types
+
+5. **Operators in C#**
+   - Learned and practiced all major operators:
+     - Arithmetic operators
+     - Relational operators
+     - Logical operators
+     - Assignment operators
+     - Unary operators
+     - Ternary operator
+     - Bitwise operators (basic understanding)
+
+6. **Assignment of csharp programming element**
+- level1 assignment completed in today
+- basic understanding of some sample problems
+
