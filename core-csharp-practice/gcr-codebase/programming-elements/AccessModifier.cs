@@ -21,20 +21,20 @@ class Calculator
         return a * b;
     }
 
-    // internal → accessible within same assembly/project
+    // internal → accessible within same project
     internal int Divide(int a, int b)
     {
         return a / b;
     }
 
-    // protected internal → same assembly OR derived class
+    // protected internal → same project OR derived class
     protected internal int Modulus(int a, int b)
     {
         return a % b;
     }
 
-    // private protected → same class AND derived class in same assembly
-    private protected int Square(int a)
+    // private protected → same class AND derived class in same project
+    protected int Square(int a)
     {
         return a * a;
     }
@@ -67,14 +67,14 @@ class AccessModifier
 {
     static void Main()
     {
-        Calculator calc = new Calculator();
+        Calculator c = new Calculator();
 
-        Console.WriteLine("Sum: " + calc.Sum(10, 5));
-        Console.WriteLine("Difference: " + calc.GetDifference(10, 5));
-        Console.WriteLine("Division: " + calc.Divide(10, 2));
-        Console.WriteLine("Modulus: " + calc.Modulus(10, 3));
+        Console.WriteLine("Sum: " + c.Sum(10, 5));
+        Console.WriteLine("Difference: " + c.GetDifference(10, 5));
+        Console.WriteLine("Division: " + c.Divide(10, 2));
+        Console.WriteLine("Modulus: " + c.Modulus(10, 3));
 
-        AdvancedCalculator adv = new AdvancedCalculator();
-        adv.ShowProtectedMembers();
+        AdvancedCalculator a = new AdvancedCalculator();
+        a.ShowProtectedMembers();
     }
 }
