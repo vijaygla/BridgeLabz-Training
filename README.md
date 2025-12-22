@@ -111,3 +111,62 @@
 - level1 assignment completed in today
 - basic understanding of some sample problems
 
+---
+# Day-5: 20 December 2025  
+
+## Tasks Completed
+
+1. **Advanced Access Modifiers in C#**
+   - Studied special access modifiers in C#:
+     - `protected internal`
+     - `private protected`
+   - Understood the scope, visibility, and real-world use cases of each modifier.
+   - Practiced multiple coding problems related to access modifiers to strengthen conceptual clarity.
+   - Analyzed different scenarios to determine the appropriate access modifier for secure and maintainable code design.
+
+---
+
+## Learning Outcome
+- Gained a clear understanding of advanced access control mechanisms in C#.
+- Improved ability to design encapsulated and well-structured classes for enterprise applications.
+- Enhanced confidence in applying access modifiers effectively in real-world coding scenarios.
+
+
+---
+# Day-6: 21 December 2025  (Sunday)
+
+## Revison
+
+---
+
+# Day-7: 22 December 2025  
+
+## Tasks Completed
+
+1. **Control Flow Statements in C#**
+   - Studied the concept of control flow and its role in directing program execution.
+   - Learned and practiced **decision-making statements**:
+     - `if`
+     - `if-else`
+     - `else if`
+     - `switch`
+   - Covered **looping statements** for repeated execution:
+     - `for`
+     - `while`
+     - `do-while`
+     - `foreach`
+   - Understood **jump statements** and their usage:
+     - `break`
+     - `continue`
+     - `return`
+     - `goto`
+   - Explored **exception handling constructs**:
+     - `try`
+     - `catch`
+     - `finally`
+     - `throw`
+   - Practiced coding problems to apply control flow statements in real-life scenarios.
+   - Focused on writing clean, readable, and logically structured code using proper control flow.
+
+---
+
