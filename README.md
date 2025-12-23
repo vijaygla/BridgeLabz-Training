@@ -170,3 +170,27 @@
 
 ---
 
+# Day-8: 23 December 2025  
+
+## Tasks Completed
+
+### 1. Control Flow Assignment
+- Successfully completed the comprehensive assignment covering logical branching and execution paths.
+- Applied complex logic to solve real-world programming challenges.
+- Focused on optimizing code structure and ensuring all edge cases were handled using appropriate conditional logic.
+
+---
+
+### 2. Switch Case Deep Dive
+- Studied the `switch` statement as an efficient alternative to nested `if-else` structures.
+- Explored:
+    - **Case labels** and the `default` case for fallback logic.
+    - **Switch expressions** for concise data mapping (C# 8.0+ features).
+    - **Pattern matching** within switch blocks to handle different types and conditions.
+
+---
+
+
+# Day-9: 24 December 2025  
+
+## Tasks Completed
