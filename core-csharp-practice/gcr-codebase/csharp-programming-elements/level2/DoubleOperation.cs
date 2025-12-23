@@ -18,8 +18,9 @@ class DoubleOperation
         double ans3 = c + a / b;
         double ans4 = a % b + c;
 
-        Console.WriteLine(
-            $"The results of Double Operations are {ans1}, {ans2}, {ans3}, and {ans4}"
-        );
+        Console.WriteLine(ans1);
+        Console.WriteLine(ans2);
+        Console.WriteLine(ans3);
+        Console.WriteLine(ans4);
     }
 }

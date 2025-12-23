@@ -4,6 +4,7 @@ class HarshadNumber
 {
     static void Main(String[] args)
     {
+        // Enter the input from the user
         Console.Write("Enter a number: ");
         int number = int.Parse(Console.ReadLine());
 

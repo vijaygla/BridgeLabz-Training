@@ -13,8 +13,6 @@ class ChocolateDistribution
         int perChild = chocolates / children;
         int remaining = chocolates % children;
 
-        Console.WriteLine(
-            $"each child gets {perChild} and the remaining chocolates is {remaining}"
-        );
+        Console.WriteLine(remaining + " choclate remaing per children");
     }
 }

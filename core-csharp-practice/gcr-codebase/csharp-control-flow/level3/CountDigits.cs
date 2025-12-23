@@ -7,6 +7,7 @@ class CountDigits
         Console.Write("Enter a number: ");
         int number = int.Parse(Console.ReadLine());
 
+        // intitilise the count value zero
         int count = 0;
 
         while (number != 0)

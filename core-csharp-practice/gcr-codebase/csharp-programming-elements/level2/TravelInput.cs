@@ -25,7 +25,9 @@ class TravelInput
         double totalDistance = fromToVia + viaToFinal;
 
         Console.WriteLine(
-            $"The results of the trip are: {name}, {totalDistance}, {fromCity} to {toCity} via {viaCity}"
+            "The results of the trip are: " + name + ", " + totalDistance +
+            ", " + fromCity + " to " + toCity + " via " + viaCity
         );
+
     }
 }

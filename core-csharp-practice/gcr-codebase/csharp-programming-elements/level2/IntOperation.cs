@@ -18,8 +18,9 @@ class IntOperation
         int result3 = c + a / b;
         int result4 = a % b + c;
 
-        Console.WriteLine(
-            $"The results of Int Operations are {result1}, {result2}, {result3}, and {result4}"
-        );
+        Console.WriteLine(result1);
+        Console.WriteLine(result2);
+        Console.WriteLine(result3);
+        Console.WriteLine(result4);
     }
 }

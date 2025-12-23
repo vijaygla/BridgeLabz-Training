@@ -34,7 +34,7 @@ class Calculator
     }
 
     // private protected → same class AND derived class in same project
-    protected int Square(int a)
+    private protected int Square(int a)
     {
         return a * a;
     }

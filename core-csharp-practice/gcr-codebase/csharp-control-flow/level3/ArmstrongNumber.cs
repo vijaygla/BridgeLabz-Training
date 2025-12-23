@@ -10,6 +10,7 @@ class ArmstrongNumber
         int originalNumber = number;
         int sum = 0;
 
+        // if number is zero than exit from the loop
         while (number != 0)
         {
             int remainder = number % 10;      
@@ -23,4 +24,3 @@ class ArmstrongNumber
             Console.WriteLine("Not an Armstrong Number");
     }
 }
-33

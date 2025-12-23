@@ -14,7 +14,9 @@ class QuotientRemainder
         int remainder = number1 % number2;
 
         Console.WriteLine(
-            $"The Quotient is {quotient} and Remainder is {remainder} of two numbers {number1} and {number2}"
+            "The Quotient is " + quotient +
+            " and Remainder is " + remainder +
+            " of two numbers " + number1 + " and " + number2
         );
     }
 }

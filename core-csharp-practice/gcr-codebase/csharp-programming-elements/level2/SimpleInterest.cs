@@ -16,7 +16,11 @@ class SimpleInterest
         double interest = (principal * rate * time) / 100;
 
         Console.WriteLine(
-            $"The Simple Interest is {interest} for Principal {principal}, Rate of Interest {rate} and Time {time}"
+            "The Simple Interest is " + interest +
+            " for Principal " + principal +
+            ", Rate of Interest " + rate +
+            " and Time " + time
         );
+
     }
 }

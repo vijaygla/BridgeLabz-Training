@@ -9,6 +9,6 @@ class FahrenheitToCelsius
 
         double celsius = (fahrenheit - 32) * 5 / 9;
 
-        Console.WriteLine($"The {fahrenheit} Fahrenheit is {celsius} Celsius");
+        Console.WriteLine("The " + fahrenheit + " Fahrenheit is " + celsius + " Celsius");
     }
 }
