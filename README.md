@@ -194,3 +194,18 @@
 # Day-9: 24 December 2025  
 
 ## Tasks Completed
+- One dimentional array
+   - assigment level1 completed regard the concept of one dimentional array
+- Two dimentional array
+   - understand how the two diamentional array work
+   - complete the assignment of two diamentional array
+
+# Day-10: 25 December 2025  
+
+## Tasks Completed
+- Today is leave and i revise all the preivious concept
+- also complete the method assigment 
+   - understand how can we make the method and use it again and agin in our code
+   - also importance of method which make the code more readable and understand able.
+
+
