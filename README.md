@@ -208,4 +208,28 @@
    - understand how can we make the method and use it again and agin in our code
    - also importance of method which make the code more readable and understand able.
 
+---
+# Day-11: 26 December 2025
 
+## Tasks Completed
+
+### 1. Snake and Ladder Console Application (C#)
+- Developed a console-based **Snake and Ladder game** using C#.
+- Implemented **methods** to organize game logic and improve readability.
+- Used the **Random** class to simulate dice rolls.
+- Applied **switch–case** statements to handle snake and ladder positions instead of traditional `if–else` conditions.
+- Practiced **logical flow control**, loops, and array usage to manage multiple players.
+- Improved understanding of **code structuring** and **method reusability**.
+
+### 2. String Concepts in C#
+- Studied the **String Constant Pool (SCP)** and its role in memory optimization.
+- Understood how **string literals** are stored in the string pool within the heap.
+- Learned that **only one object is created** for identical string literals.
+- Observed that when the same string literal is used multiple times, it **references the same memory location** instead of creating a new object.
+- Understood why strings are **immutable** in C#, which improves **security, thread safety, and performance**.
+- Gained clarity on the difference between **string literals** and **string objects created using `new`**.
+
+---
+# Day-12: 29 December 2025
+
+## Tasks Completed
