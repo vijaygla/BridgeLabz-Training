@@ -233,3 +233,39 @@
 # Day-12: 29 December 2025
 
 ## Tasks Completed
+
+- Designed and implemented a **Snake and Ladder game** using arrays and conditional logic to simulate player movement, snakes, and ladders.
+- Worked on handling **dice roll logic**, player position updates, and game completion conditions without using built-in shortcuts.
+- Practiced **method-based programming** to separate game logic such as checking snakes, ladders, and win conditions.
+- Developed a **Sentence Formatter program** to process user-input text and apply formatting rules using custom string-handling logic.
+- Improved understanding of **string traversal, character checks, and manual formatting** without relying on built-in string manipulation functions.
+- Focused on writing **clear, well-commented, and readable C# code** suitable for labs, exams, and viva explanations.
+
+
+# Day-13: 30 December 2025
+
+## Tasks Completed
+
+- Implemented **EduQuiz – Student Quiz Grader**
+  - Used arrays to store correct answers and student answers
+  - Compared answers using case-insensitive logic
+  - Displayed per-question feedback (Correct / Incorrect)
+  - Calculated total score, percentage, and pass/fail result
+  - Avoided collection framework and built-in helper functions
+
+- Developed **Library Management System**
+  - Stored book details (title, author, availability) using arrays
+  - Implemented partial title search using custom string-matching logic
+  - Added book checkout functionality with status update
+  - Displayed complete book list before and after checkout
+  - Did not use collections or built-in search methods
+
+- Created **sample test cases** for Library Management System
+  - Verified partial search
+  - Verified successful checkout
+  - Verified repeated checkout handling
+
+- Debugged and fixed **C# compiler compatibility issues**
+  - Updated code to work with older C# versions
+  - Removed unsupported inline `out` variable declarations
+

@@ -74,7 +74,7 @@ class LibrarySystem
         return false;
     }
 
-    // Checkout a book
+    // Checkout a book if available than checkout
     static void CheckoutBook(string title)
     {
         for (int i = 0; i < titles.Length; i++)
