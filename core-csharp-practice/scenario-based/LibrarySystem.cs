@@ -1,8 +1,9 @@
 using System;
 
-class LibrarySystem
+class Library
 {
-    static string[] titles =
+    // Book data hidden using encapsulation
+    private string[] titles =
     {
         "C Programming",
         "Java Basics",
@@ -11,7 +12,7 @@ class LibrarySystem
         "Computer Networks"
     };
 
-    static string[] authors =
+    private string[] authors =
     {
         "Dennis Ritchie",
         "James Gosling",
@@ -20,18 +21,19 @@ class LibrarySystem
         "Forouzan"
     };
 
-    static bool[] isAvailable =
+    private bool[] isAvailable =
     {
         true, true, true, true, true
     };
 
     // Display all books
-    static void DisplayBooks()
+    public void DisplayBooks()
     {
-        Console.WriteLine("\nLibrary Books:");
+        Console.WriteLine("\n--- Library Books ---");
         for (int i = 0; i < titles.Length; i++)
         {
             Console.WriteLine(
+                (i + 1) + ". " +
                 titles[i] + " | " +
                 authors[i] + " | " +
                 (isAvailable[i] ? "Available" : "Checked Out")
@@ -39,13 +41,13 @@ class LibrarySystem
         }
     }
 
-    // Search book by partial title
-    static void SearchBook(string keyword)
+    // Search book by partial title (case-insensitive)
+    public void SearchBook(string keyword)
     {
-        Console.WriteLine("\nSearch Results:");
+        Console.WriteLine("\n--- Search Results ---");
         for (int i = 0; i < titles.Length; i++)
         {
-            if (IsPartialMatch(titles[i], keyword))
+            if (titles[i].IndexOf(keyword, StringComparison.OrdinalIgnoreCase) >= 0)
             {
                 Console.WriteLine(
                     titles[i] + " | " +
@@ -56,30 +58,12 @@ class LibrarySystem
         }
     }
 
-    // Custom partial string matching method
-    static bool IsPartialMatch(string text, string pattern)
-    {
-        for (int i = 0; i <= text.Length - pattern.Length; i++)
-        {
-            int j;
-            for (j = 0; j < pattern.Length; j++)
-            {
-                if (text[i + j] != pattern[j])
-                    break;
-            }
-
-            if (j == pattern.Length)
-                return true;
-        }
-        return false;
-    }
-
-    // Checkout a book if available than checkout
-    static void CheckoutBook(string title)
+    // Checkout book (User action)
+    public void CheckoutBook(string title)
     {
         for (int i = 0; i < titles.Length; i++)
         {
-            if (titles[i] == title)
+            if (titles[i].Equals(title, StringComparison.OrdinalIgnoreCase))
             {
                 if (isAvailable[i])
                 {
@@ -88,7 +72,7 @@ class LibrarySystem
                 }
                 else
                 {
-                    Console.WriteLine("Book already checked out.");
+                    Console.WriteLine("Book is already checked out.");
                 }
                 return;
             }
@@ -96,18 +80,95 @@ class LibrarySystem
         Console.WriteLine("Book not found.");
     }
 
-    static void Main()
+    // Admin updates book status
+    public void UpdateBookStatus(int index, bool status)
     {
-        DisplayBooks();
+        if (index >= 0 && index < isAvailable.Length)
+        {
+            isAvailable[index] = status;
+            Console.WriteLine("Book status updated successfully.");
+        }
+        else
+        {
+            Console.WriteLine("Invalid book selection.");
+        }
+    }
+}
+
+
+// admin class
+static class Admin
+{
+    // Static admin method - one object will create for this method
+    public static void AdminMenu(Library library)
+    {
+        library.DisplayBooks();
+
+        Console.Write("\nEnter book number to change status: ");
+        int bookNo = int.Parse(Console.ReadLine());
+
+        Console.Write("Enter status (true = Available / false = Checked Out): ");
+        bool status = bool.Parse(Console.ReadLine());
+
+        library.UpdateBookStatus(bookNo - 1, status);
+    }
+}
+
+
+// user class
+class User
+{
+    private Library library;
+
+    public User(Library lib)
+    {
+        library = lib;
+    }
+
+    public void UserMenu()
+    {
+        library.DisplayBooks();
 
         Console.Write("\nEnter keyword to search book: ");
         string keyword = Console.ReadLine();
-        SearchBook(keyword);
+        library.SearchBook(keyword);
 
         Console.Write("\nEnter exact book title to checkout: ");
-        string bookTitle = Console.ReadLine();
-        CheckoutBook(bookTitle);
+        string title = Console.ReadLine();
+        library.CheckoutBook(title);
+    }
+}
 
-        DisplayBooks();
+
+// program class which contain the main method
+class Program
+{
+    static void Main()
+    {
+        Library library = new Library();
+
+        Console.WriteLine("===== Library Management System =====");
+        Console.WriteLine("1. Admin");
+        Console.WriteLine("2. User");
+        Console.Write("Select role: ");
+        int choice = int.Parse(Console.ReadLine());
+
+        if (choice == 1)
+        {
+            // Admin accessed statically
+            Admin.AdminMenu(library);
+        }
+        else if (choice == 2)
+        {
+            User user = new User(library);
+            user.UserMenu();
+        }
+        else
+        {
+            Console.WriteLine("Invalid option.");
+        }
+
+        // Final state of library
+        library.DisplayBooks();
     }
 }
