@@ -17,6 +17,7 @@ namespace EmployeeWage
         { 
             employeeUtility.CheckAttendance(); //UC-0
             employeeUtility.CalculateDailyWage(); //UC-1
+            employeeUtility.CalculatePartTimeWage();  //UC-2
         }
 
     }
