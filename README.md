@@ -1,3 +1,6 @@
+###### `Main readme`
+
+
 # Day-1: 16 December 2025 
 ## Tasks Completed 
 1. **Orientation & Induction Session**
@@ -268,4 +271,155 @@
 - Debugged and fixed **C# compiler compatibility issues**
   - Updated code to work with older C# versions
   - Removed unsupported inline `out` variable declarations
+
+# Day-14: 31 December 2025  
+
+## Tasks Completed  
+
+### Introduction to Object-Oriented Programming (OOP) in C#  
+- Studied the fundamentals of **Object-Oriented Programming**.  
+- Understood why OOP is used in real-world and enterprise applications.  
+- Learned the relationship between real-world entities and classes/objects.  
+
+### Core OOP Concepts – Theory  
+- Studied the following concepts in detail:  
+  - Class & Object  
+  - Encapsulation  
+  - Inheritance  
+  - Polymorphism  
+  - Abstraction  
+- Understood theoretical definitions along with simple real-life examples.  
+
+### Hands-on Practice  
+- Created basic C# programs to define classes and objects.  
+- Practiced accessing data using methods instead of direct variable access.  
+
+---
+
+# Day-15: 1 January 2026  
+
+## Tasks Completed  
+
+### Encapsulation in C#  
+- Learned how to restrict direct access to class variables using `private`.  
+- Implemented properties (`get` / `set`) for controlled access.  
+- Practiced validation logic inside setters.  
+
+### Access Modifiers – Practical Usage  
+- Practiced:  
+  - `public`  
+  - `private`  
+  - `protected`  
+  - `internal`  
+- Understood how access modifiers affect class visibility across files and assemblies.  
+
+### Code Readability & Best Practices  
+- Focused on writing clean and readable C# code.  
+- Followed proper naming conventions for variables and methods.  
+
+---
+
+# Day-16: 2 January 2026  
+
+## Tasks Completed  
+
+### Inheritance in C#  
+- Studied how one class can inherit properties and methods from another.  
+- Used the `:` symbol to implement inheritance.  
+- Understood base class and derived class concepts.  
+
+### Method Overriding  
+- Learned the usage of `virtual` and `override` keywords.  
+- Practiced runtime behavior changes using overridden methods.  
+
+### Real-Life Examples  
+- Implemented inheritance examples using real-world entities like:  
+  - Person → Student  
+  - Employee → Manager  
+
+---
+
+# Day-17: 3 January 2026  
+
+## Tasks Completed  
+
+### Polymorphism in C#  
+- Studied compile-time polymorphism (method overloading).  
+- Studied runtime polymorphism (method overriding).  
+- Understood how the same method behaves differently based on object type.  
+
+### Interfaces in C#  
+- Learned how interfaces support abstraction.  
+- Implemented interfaces with multiple classes.  
+- Understood why interfaces are preferred in enterprise-level design.  
+
+### Type Casting & `is` Keyword  
+- Practiced checking object types using the `is` operator.  
+- Understood safe casting using interfaces.  
+
+---
+
+# Day-19: 5 January 2026  
+
+## Tasks Completed  
+
+### Mini Project – Hospital Management System (OOP Design)  
+- Designed classes such as:  
+  - Doctor  
+  - Nurse  
+  - Patient  
+- Created relationships between classes using OOP principles.  
+- Implemented interfaces for common behaviors.  
+
+### Utility Class & Main Method  
+- Understood the role of a utility class.  
+- Used it to contain the `Main` method and control program execution.  
+
+### Code Structuring  
+- Focused on proper separation of responsibilities between classes.  
+
+---
+
+# Day-20: 6 January 2026  
+
+## Tasks Completed  
+
+### Advanced OOP Clarifications  
+- Clarified doubts related to:  
+  - Using base class references for derived objects  
+  - Interface-based object storage  
+- Understood why arrays of base class type are used.  
+
+### Static Methods  
+- Learned that static methods cannot be overridden.  
+- Practiced static method overloading.  
+- Understood the difference between static and instance methods.  
+
+### Problem Solving Practice  
+- Solved multiple small C# problems to strengthen OOP understanding.  
+
+---
+
+# Day-21: 7 January 2026  
+
+## Tasks Completed  
+
+### Git Branch Management  
+- Learned how to check existing branches using Git commands.  
+- Understood common Git errors related to pushing branches.  
+- Fixed branch push issues by using correct refspec syntax.  
+
+### Revision of OOP Concepts  
+- Revised:  
+  - Encapsulation  
+  - Inheritance  
+  - Polymorphism  
+  - Abstraction  
+- Reviewed real-world examples and interview-based questions.  
+
+### Interview-Oriented Preparation  
+- Focused on explanation-based understanding for viva and interviews.  
+- Practiced explaining code logic in simple terms.  
+
+
 
