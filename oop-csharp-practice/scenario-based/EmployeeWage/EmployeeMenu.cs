@@ -14,8 +14,9 @@ namespace EmployeeWage
         }
 
         public void Start()
-        {
+        { 
             employeeUtility.CheckAttendance(); //UC-0
+            employeeUtility.CalculateDailyWage(); //UC-1
         }
 
     }

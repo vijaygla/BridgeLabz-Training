@@ -30,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeMenu.cs",
+              "DocumentMoniker": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeMenu.cs",
+              "RelativeDocumentMoniker": "EmployeeMenu.cs",
+              "ToolTip": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeMenu.cs*",
+              "RelativeToolTip": "EmployeeMenu.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:49:50.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeMain.cs",
+              "DocumentMoniker": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeMain.cs",
+              "RelativeDocumentMoniker": "EmployeeMain.cs",
+              "ToolTip": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeMain.cs",
+              "RelativeToolTip": "EmployeeMain.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:49:35.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +70,7 @@
               "RelativeDocumentMoniker": "EmployeeUtilityImpl.cs",
               "ToolTip": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeUtilityImpl.cs*",
               "RelativeToolTip": "EmployeeUtilityImpl.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T17:50:14.536Z",
               "EditorCaption": ""
@@ -57,22 +83,9 @@
               "RelativeDocumentMoniker": "IEmployee.cs",
               "ToolTip": "C:\\v\\dotnet-project\\EmployeeWage\\IEmployee.cs*",
               "RelativeToolTip": "IEmployee.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T17:50:29.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeMenu.cs",
-              "DocumentMoniker": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeMenu.cs",
-              "RelativeDocumentMoniker": "EmployeeMenu.cs",
-              "ToolTip": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeMenu.cs*",
-              "RelativeToolTip": "EmployeeMenu.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T17:49:50.422Z",
               "EditorCaption": ""
             },
             {
@@ -81,24 +94,11 @@
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\v\\dotnet-project\\EmployeeWage\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "C:\\v\\dotnet-project\\EmployeeWage\\Employee.cs*",
-              "RelativeToolTip": "Employee.cs*",
+              "ToolTip": "C:\\v\\dotnet-project\\EmployeeWage\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T17:48:13.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeMain.cs",
-              "DocumentMoniker": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeMain.cs",
-              "RelativeDocumentMoniker": "EmployeeMain.cs",
-              "ToolTip": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeMain.cs*",
-              "RelativeToolTip": "EmployeeMain.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T17:49:35.476Z",
               "EditorCaption": ""
             }
           ]
