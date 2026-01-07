@@ -69,6 +69,17 @@ namespace EmployeeWage
             }
         }
 
+        public void CalculateMonthlyWage()
+        {
+            int wagePerHour = 20;
+            int workingDays = 20;
+            int fullDayHour = 8;
+
+            int monthlyWage = wagePerHour * fullDayHour * workingDays;
+            Console.WriteLine("Monthly Employee Wage: " + monthlyWage);
+        }
+
+
 
     }
 }
