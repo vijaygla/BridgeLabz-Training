@@ -40,6 +40,35 @@ namespace EmployeeWage
             Console.WriteLine("Part Time Employee Wage: " + partTimeWage);
         }
 
+        public void CalculateWageUsingSwitch()
+        {
+            int wagePerHour = 20;
+            int fullDayHour = 8;
+            int partTimeHour = 4;
+
+            Random random = new Random();
+            int empType = random.Next(0, 3);
+
+            int totalWage = 0;
+
+            switch (empType)
+            {
+                case 1:
+                    totalWage = wagePerHour * fullDayHour;
+                    Console.WriteLine("Full Time Employee Wage: " + totalWage);
+                    break;
+
+                case 2:
+                    totalWage = wagePerHour * partTimeHour;
+                    Console.WriteLine("Part Time Employee Wage: " + totalWage);
+                    break;
+
+                default:
+                    Console.WriteLine("Employee is Absent");
+                    break;
+            }
+        }
+
 
     }
 }

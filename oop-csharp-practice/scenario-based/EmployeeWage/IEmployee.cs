@@ -9,6 +9,7 @@ namespace EmployeeWage
         void CheckAttendance();
         void CalculateDailyWage();
         void CalculatePartTimeWage();
+        void CalculateWageUsingSwitch();
 
     }
 }
