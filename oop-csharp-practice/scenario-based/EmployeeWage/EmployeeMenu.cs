@@ -19,7 +19,8 @@ namespace EmployeeWage
             employeeUtility.CalculateDailyWage(); //UC-1
             employeeUtility.CalculatePartTimeWage();  //UC-2
             employeeUtility.CalculateWageUsingSwitch(); // UC-3
-            employeeUtility.CalculateMonthlyWage();     // UC-5
+            employeeUtility.CalculateMonthlyWage();     // UC-4
+            employeeUtility.CalculateWageTillCondition(); //UC-5
         }
 
     }

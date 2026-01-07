@@ -80,6 +80,20 @@ namespace EmployeeWage
         }
 
 
+        public void CalculateWageTillCondition()
+        {
+            int wagePerHour = 20;
+            int totalHours = 0;
+            int totalDays = 0;
 
+            while (totalHours < 100 && totalDays < 20)
+            {
+                totalDays++;
+                totalHours += 8;
+            }
+
+            int totalWage = totalHours * wagePerHour;
+            Console.WriteLine("Total Wage till condition reached: " + totalWage);
+        }
     }
 }
