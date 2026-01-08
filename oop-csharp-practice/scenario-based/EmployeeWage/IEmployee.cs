@@ -12,5 +12,8 @@ namespace EmployeeWage
         void CalculateWageUsingSwitch();
         void CalculateMonthlyWage();
         void CalculateWageTillCondition();
+
+        // New method to add employee
+        Employee AddEmployee();
     }
 }
