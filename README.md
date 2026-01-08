@@ -422,4 +422,32 @@
 - Practiced explaining code logic in simple terms.  
 
 
+# Day-22: 8 January 2026  
+
+## Tasks Completed  
+
+### Trainer Interaction & Meeting  
+- Joined the scheduled meeting conducted by the trainer.  
+- Discussed learning progress and upcoming topics.  
+- Clarified doubts related to OOP concepts and problem-solving approach.  
+
+### Scenario-Based OOP Problem  
+- Designed a **Home Appliance Automation System** using OOP concepts.  
+- Applied:  
+  - **Encapsulation** to protect appliance data  
+  - **Inheritance** for different appliance types (Fan, Light, AC, etc.)  
+  - **Polymorphism** to perform operations like turnOn/turnOff differently  
+  - **Abstraction** to define common appliance behaviors  
+- Focused on explaining the design clearly for interview scenarios.  
+
+### Data Structures – Linked List  
+- Understood the basics of **Linked List**:  
+  - Node structure  
+  - Head and next reference  
+  - Difference between array and linked list  
+
+### Assignment Practice  
+- Completed the **Linked List assignment**.  
+- Practiced insertion, deletion, and traversal operations.  
+- Explained linked list logic step by step for better understanding.  
 
