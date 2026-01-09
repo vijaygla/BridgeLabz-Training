@@ -451,3 +451,46 @@
 - Practiced insertion, deletion, and traversal operations.  
 - Explained linked list logic step by step for better understanding.  
 
+# Day-23: 9 January 2026  
+
+## Tasks Completed  
+
+### C# Keywords – `readonly` and `out`  
+- Learned the **`readonly` keyword** in C#:  
+  - Used to make class-level fields immutable after initialization.  
+  - Values can be assigned only at declaration or inside the constructor.  
+  - Helps in maintaining data integrity and safe design.  
+
+- Learned the **`out` keyword** in C#:  
+  - Used to return multiple values from a method.  
+  - Mandatory assignment inside the called method.  
+  - Improves method flexibility without using return objects.  
+
+### Scenario-Based OOP Console Applications  
+
+#### ATM Dispenser Console Application  
+- Designed an **ATM Dispenser system** using OOP principles.  
+- Implemented:  
+  - **Encapsulation** to protect account balance and PIN details  
+  - **Abstraction** to define ATM operations (Withdraw, CheckBalance, Deposit)  
+  - **Polymorphism** for different transaction behaviors  
+  - **readonly fields** for fixed values like ATM ID  
+  - **out keyword** to return transaction status and updated balance  
+- Focused on clean structure and interview-ready explanation.  
+
+#### Fitness Tracker Console Application  
+- Built a **Fitness Tracker system** using OOP concepts.  
+- Implemented:  
+  - **Encapsulation** for user health data (steps, calories, distance)  
+  - **Inheritance** for different activity types (Walking, Running, Cycling)  
+  - **Polymorphism** to calculate calories differently per activity  
+  - **readonly fields** for user ID and tracker type  
+  - **out keyword** to provide calculated fitness results  
+- Emphasized real-world modeling and clarity in design.  
+
+### OOP Design Practice  
+- Strengthened understanding of:  
+  - Class design  
+  - Method responsibility  
+  - Data hiding and controlled access  
+- Practiced explaining logic step by step for interviews and assessments.  
