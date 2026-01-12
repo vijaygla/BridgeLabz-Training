@@ -488,9 +488,61 @@
   - **out keyword** to provide calculated fitness results  
 - Emphasized real-world modeling and clarity in design.  
 
-### OOP Design Practice  
-- Strengthened understanding of:  
-  - Class design  
-  - Method responsibility  
-  - Data hiding and controlled access  
-- Practiced explaining logic step by step for interviews and assessments.  
+# Day-24: 12 January 2026  
+
+## Tasks Completed  
+
+### Scenario-Based Problem Solving Using OOP  
+
+#### Metal Factory Pipe (Rod) Cutting Problem  
+- Studied and implemented the **Rod Cutting problem** using a real-world metal factory scenario.  
+- Understood how different cut combinations affect total revenue.  
+- Implemented the solution using **Dynamic Programming** to maximize revenue.  
+- Designed the application using OOP concepts:  
+  - **Encapsulation** to protect rod length and price chart  
+  - **Abstraction** using an interface for cutting strategies  
+  - **Inheritance & Polymorphism** for optimized and non-optimized cutting logic  
+  - **Composition** where the factory uses a cutting strategy  
+- Compared optimized vs non-optimized approaches to understand revenue loss.  
+- Gained clarity on DP logic with step-by-step explanation.  
+
+---
+
+#### Custom Furniture Manufacturing Scenario  
+- Solved a **wooden rod cutting problem** for a carpenter-based furniture manufacturing use case.  
+- Extended rod-cutting logic to handle **waste constraints**.  
+- Implemented multiple scenarios:  
+  - Maximum revenue without waste  
+  - Revenue calculation with fixed waste constraint  
+  - Balanced approach to maximize revenue with minimal waste  
+- Used Strategy Pattern and Dynamic Programming while keeping code clean and modular.  
+
+---
+
+### Fintech Case Study – LoanBuddy (Loan Approval Automation)  
+
+- Designed and implemented the **LoanBuddy loan approval engine**.  
+- Modeled real-world fintech requirements for:  
+  - Personal loans  
+  - Home loans  
+  - Auto loans  
+- Implemented core components:  
+  - `Applicant` class with encapsulated credit score and income  
+  - `LoanApplication` abstract base class  
+  - `IApprovable` interface for approval and EMI calculation  
+- Applied OOP principles:  
+  - **Encapsulation** to hide sensitive data and approval logic  
+  - **Inheritance** for different loan types  
+  - **Polymorphism** for loan-specific approval and EMI calculation  
+  - **Access modifiers** to restrict loan status updates  
+- Used the standard EMI formula for monthly repayment calculation.  
+
+---
+
+### Debugging & Compiler Compatibility (C# 5)  
+- Encountered and resolved multiple **C# compiler errors** due to older language version (C# 5).  
+- Learned the difference between **Java syntax and C# syntax**.  
+- Refactored code to ensure full **C# 5 compatibility**.  
+- Successfully compiled and executed programs using the `csc` compiler.  
+
+---
