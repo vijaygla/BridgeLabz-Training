@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeWage.csproj": {}
+    "C:\\v\\BridgeLabz-Training\\oop-csharp-practice\\scenario-based\\EmployeeWage\\EmployeeWage.csproj": {}
   },
   "projects": {
-    "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeWage.csproj": {
+    "C:\\v\\BridgeLabz-Training\\oop-csharp-practice\\scenario-based\\EmployeeWage\\EmployeeWage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeWage.csproj",
+        "projectUniqueName": "C:\\v\\BridgeLabz-Training\\oop-csharp-practice\\scenario-based\\EmployeeWage\\EmployeeWage.csproj",
         "projectName": "EmployeeWage",
-        "projectPath": "C:\\v\\dotnet-project\\EmployeeWage\\EmployeeWage.csproj",
+        "projectPath": "C:\\v\\BridgeLabz-Training\\oop-csharp-practice\\scenario-based\\EmployeeWage\\EmployeeWage.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\dotnet-project\\EmployeeWage\\obj\\",
+        "outputPath": "C:\\v\\BridgeLabz-Training\\oop-csharp-practice\\scenario-based\\EmployeeWage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
