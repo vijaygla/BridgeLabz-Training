@@ -581,3 +581,74 @@ Used when performing **multiple string operations** such as concatenation, inser
 - MoviesScheduleSystem
 - BookBuddy
 `This two scenario based problem solved yesterday`
+
+
+# 📅 14 January 2026
+## 📘 Day Task – AddressBookSystem (UC1 to UC11)
+
+Today’s Task – Scenario Based Problem Implementation using C#
+## 🎯 Problem Scenario
+
+The **AddressBookSystem** is a **real-world, scenario-based console application** that simulates how an address book works in daily life.  
+The system allows users to manage personal contacts across **multiple address books**, ensuring **data integrity, scalability, and proper object-oriented design**.
+
+The goal of this task was to design and implement the Address Book system step-by-step using **Use Cases (UC1 to UC11)** while strictly following **Object-Oriented Programming principles**.
+
+---
+
+## 🧩 Scenario Explanation
+
+In real life:
+- A user can maintain **multiple address books** (e.g., Personal, Office).
+- Each address book contains **multiple contacts**.
+- Each contact has personal details like name, address, city, state, phone number, and email.
+- The system should prevent duplicate entries and allow searching, sorting, and grouping.
+
+This project models the above scenario using a **menu-driven console application**.
+
+---
+
+## ✅ Use Cases Implemented Today
+
+### UC1 – Create Contact
+- Ability to create a contact with complete personal details.
+
+### UC2 – Add Contact to Address Book
+- Add a new contact to an address book using console input.
+
+### UC3 – Edit Existing Contact
+- Edit contact details using the person’s first name.
+
+### UC4 – Delete Contact
+- Delete a contact by using the person’s name.
+
+### UC5 – Add Multiple Contacts
+- Use collections to store multiple contacts in one address book.
+
+### UC6 – Multiple Address Books
+- Maintain multiple address books using a dictionary.
+- Each address book has a unique name.
+
+### UC7 – Duplicate Entry Check
+- Prevent duplicate contact entries.
+- Duplicate check is done using person name.
+- `Equals()` and `GetHashCode()` are overridden.
+
+### UC8 – Search by City or State
+- Search persons across all contacts based on city or state.
+
+### UC9 – View Persons by City or State
+- View contacts grouped by city or state using dictionaries.
+
+### UC10 – Count Contacts by City or State
+- Display the number of contacts belonging to each city or state.
+
+### UC11 – Sort Contacts by Name
+- Sort contact entries alphabetically by person name.
+
+---
+
+## 📁 Project Structure
+---
+
+# 📅 15 January 2026
