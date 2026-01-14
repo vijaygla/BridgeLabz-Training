@@ -546,3 +546,38 @@
 - Successfully compiled and executed programs using the `csc` compiler.  
 
 ---
+
+# 📘 Daily Learning Log – 13 January 2026
+
+## 👨‍💻 Technology Focus
+- C#
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Console Application Design
+- Best Practices in C#
+
+---
+
+## ✅ Tasks & Topics Covered
+
+---
+
+### 1️⃣ C# Best Practices
+
+#### 🔹 StringBuilder
+**Use Case:**  
+Used when performing **multiple string operations** such as concatenation, insertion, or modification—especially inside loops.
+
+**Why StringBuilder?**
+- `string` is immutable → creates new objects every time
+- `StringBuilder` is mutable → better memory & performance
+
+**Best Practices:**
+- Prefer over `string` in performance-critical scenarios
+- Use `Append()` instead of `+`
+- Initialize with capacity when size is known
+
+**Scenario Based cinsole app:**  
+- MoviesScheduleSystem
+- BookBuddy
+`This two scenario based problem solved yesterday`
