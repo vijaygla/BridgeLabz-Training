@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\v\\dotnet-project\\AddressBookSystem\\AddressBookSystem.csproj",
+      "projectUniqueName": "C:\\v\\BridgeLabz-Training\\oop-csharp-practice\\scenario-based\\AddressBookSystem\\AddressBookSystem.csproj",
       "projectName": "AddressBookSystem",
-      "projectPath": "C:\\v\\dotnet-project\\AddressBookSystem\\AddressBookSystem.csproj",
+      "projectPath": "C:\\v\\BridgeLabz-Training\\oop-csharp-practice\\scenario-based\\AddressBookSystem\\AddressBookSystem.csproj",
       "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-      "outputPath": "C:\\v\\dotnet-project\\AddressBookSystem\\obj\\",
+      "outputPath": "C:\\v\\BridgeLabz-Training\\oop-csharp-practice\\scenario-based\\AddressBookSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,11 +1,16 @@
 using System;
 
-namespace AddressBookSystem 
+namespace AddressBookSystem
 {
-    class AddressBookMain
+    internal class AddressBookMain
     {
-        static void Main(String[] args) {
-            Console.WriteLine("Welcome to the address book program!");
+        static void Main(string[] Args)
+        {
+            // uc-0
+            Console.WriteLine("Welcome to Address Book System");
+
+            AddressBookMenu Menu = new AddressBookMenu();
+            Menu.StartMenu();
         }
     }
 }
