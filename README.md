@@ -648,7 +648,56 @@ This project models the above scenario using a **menu-driven console application
 
 ---
 
-## 📁 Project Structure
+# 📅 15 January 2026
+## 📘 Day Task – OOPS, C# Core Concepts & Console Application Enhancements
+
+Today’s task focused on **strengthening Object-Oriented Programming concepts**, understanding **core C# behavior**, and improving **console application design and structure**.
+
 ---
 
-# 📅 15 January 2026
+## ✅ What I Have Done
+
+- Practiced and revised **core OOPS concepts** including:
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+- Understood and implemented **upcasting and downcasting** with practical examples.
+- Studied the difference between:
+  - Method overriding vs method hiding
+  - Abstract class vs interface
+- Analyzed **default access modifiers** in C# for:
+  - Classes
+  - Methods
+  - Variables
+- Converted existing console logic into a **proper OOPS-based project structure**.
+- Refactored code to follow **C# naming conventions** and best practices.
+- Designed **menu-driven console applications** with clean separation of concerns.
+- Improved code readability and maintainability by using **file-wise class separation**.
+
+---
+
+# 📅 16 January 2026
+## 📘 Day Task – BookShelf Library Organizer (Custom Data Structures in C#)
+
+Today’s task focused on implementing a **real-world scenario-based library system** using **custom data structures** without relying on the built-in collection framework.
+
+---
+
+## ✅ What I Have Done
+
+- Designed and developed a **menu-driven C# console application** named **BookShelf – Library Organizer**.
+- Implemented a **genre-wise book management system**.
+- Created a **custom dictionary using nested arrays** to map genres to books.
+- Built a **custom singly linked list** to store and manage books efficiently.
+- Implemented core features:
+  - Add book
+  - Remove book
+  - Display library catalog
+- Added **duplicate book validation logic** without using `HashSet`.
+- Structured the project in a **clean, file-wise manner**.
+- Applied **core OOPS principles** throughout the application design.
+- Generated **sample input–output flows** and documentation for the application.
+- Created **README.md and daily task documentation** for the project.
+
+---
