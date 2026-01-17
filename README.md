@@ -701,3 +701,29 @@ Today’s task focused on implementing a **real-world scenario-based library sys
 - Created **README.md and daily task documentation** for the project.
 
 ---
+# 📅 17 January 2026
+## 📘 Day Task – FlashSalesApp (Product Sorting by Discount using Quick Sort)
+
+Today’s task focused on implementing a **real-world e-commerce flash sale scenario** using **DSA and OOPS concepts** in **C#**, with emphasis on **efficient sorting of large, unsorted data**.
+
+---
+
+## ✅ What I Have Done
+
+- Designed and developed a **menu-driven C# console application** named **FlashSalesApp**.
+- Implemented a **product discount–based sorting system** for flash sale scenarios.
+- Used **Quick Sort algorithm** to efficiently sort products by **highest discount first**.
+- Built a **custom array-based product storage system** without using the collection framework.
+- Created a **user-driven input mechanism** to avoid hard-coded values.
+- Implemented core features:
+  - Add product details dynamically
+  - Sort products by discount
+  - Display sorted product list
+- Applied **interface-based abstraction** to decouple sorting logic.
+- Encapsulated product data using **private setters and controlled access**.
+- Structured the application using **clear file-wise separation of responsibilities**.
+- Followed **proper C# naming conventions and coding standards**.
+- Ensured the design supports **scalability and maintainability**.
+- Generated **sample execution flows and documentation** for better understanding.
+- Created **README.md and daily task documentation** for the application.
+---
