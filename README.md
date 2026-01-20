@@ -422,4 +422,414 @@
 - Practiced explaining code logic in simple terms.  
 
 
+# Day-22: 8 January 2026  
 
+## Tasks Completed  
+
+### Trainer Interaction & Meeting  
+- Joined the scheduled meeting conducted by the trainer.  
+- Discussed learning progress and upcoming topics.  
+- Clarified doubts related to OOP concepts and problem-solving approach.  
+
+### Scenario-Based OOP Problem  
+- Designed a **Home Appliance Automation System** using OOP concepts.  
+- Applied:  
+  - **Encapsulation** to protect appliance data  
+  - **Inheritance** for different appliance types (Fan, Light, AC, etc.)  
+  - **Polymorphism** to perform operations like turnOn/turnOff differently  
+  - **Abstraction** to define common appliance behaviors  
+- Focused on explaining the design clearly for interview scenarios.  
+
+### Data Structures – Linked List  
+- Understood the basics of **Linked List**:  
+  - Node structure  
+  - Head and next reference  
+  - Difference between array and linked list  
+
+### Assignment Practice  
+- Completed the **Linked List assignment**.  
+- Practiced insertion, deletion, and traversal operations.  
+- Explained linked list logic step by step for better understanding.  
+
+# Day-23: 9 January 2026  
+
+## Tasks Completed  
+
+### C# Keywords – `readonly` and `out`  
+- Learned the **`readonly` keyword** in C#:  
+  - Used to make class-level fields immutable after initialization.  
+  - Values can be assigned only at declaration or inside the constructor.  
+  - Helps in maintaining data integrity and safe design.  
+
+- Learned the **`out` keyword** in C#:  
+  - Used to return multiple values from a method.  
+  - Mandatory assignment inside the called method.  
+  - Improves method flexibility without using return objects.  
+
+### Scenario-Based OOP Console Applications  
+
+#### ATM Dispenser Console Application  
+- Designed an **ATM Dispenser system** using OOP principles.  
+- Implemented:  
+  - **Encapsulation** to protect account balance and PIN details  
+  - **Abstraction** to define ATM operations (Withdraw, CheckBalance, Deposit)  
+  - **Polymorphism** for different transaction behaviors  
+  - **readonly fields** for fixed values like ATM ID  
+  - **out keyword** to return transaction status and updated balance  
+- Focused on clean structure and interview-ready explanation.  
+
+#### Fitness Tracker Console Application  
+- Built a **Fitness Tracker system** using OOP concepts.  
+- Implemented:  
+  - **Encapsulation** for user health data (steps, calories, distance)  
+  - **Inheritance** for different activity types (Walking, Running, Cycling)  
+  - **Polymorphism** to calculate calories differently per activity  
+  - **readonly fields** for user ID and tracker type  
+  - **out keyword** to provide calculated fitness results  
+- Emphasized real-world modeling and clarity in design.  
+
+# Day-24: 12 January 2026  
+
+## Tasks Completed  
+
+### Scenario-Based Problem Solving Using OOP  
+
+#### Metal Factory Pipe (Rod) Cutting Problem  
+- Studied and implemented the **Rod Cutting problem** using a real-world metal factory scenario.  
+- Understood how different cut combinations affect total revenue.  
+- Implemented the solution using **Dynamic Programming** to maximize revenue.  
+- Designed the application using OOP concepts:  
+  - **Encapsulation** to protect rod length and price chart  
+  - **Abstraction** using an interface for cutting strategies  
+  - **Inheritance & Polymorphism** for optimized and non-optimized cutting logic  
+  - **Composition** where the factory uses a cutting strategy  
+- Compared optimized vs non-optimized approaches to understand revenue loss.  
+- Gained clarity on DP logic with step-by-step explanation.  
+
+---
+
+#### Custom Furniture Manufacturing Scenario  
+- Solved a **wooden rod cutting problem** for a carpenter-based furniture manufacturing use case.  
+- Extended rod-cutting logic to handle **waste constraints**.  
+- Implemented multiple scenarios:  
+  - Maximum revenue without waste  
+  - Revenue calculation with fixed waste constraint  
+  - Balanced approach to maximize revenue with minimal waste  
+- Used Strategy Pattern and Dynamic Programming while keeping code clean and modular.  
+
+---
+
+### Fintech Case Study – LoanBuddy (Loan Approval Automation)  
+
+- Designed and implemented the **LoanBuddy loan approval engine**.  
+- Modeled real-world fintech requirements for:  
+  - Personal loans  
+  - Home loans  
+  - Auto loans  
+- Implemented core components:  
+  - `Applicant` class with encapsulated credit score and income  
+  - `LoanApplication` abstract base class  
+  - `IApprovable` interface for approval and EMI calculation  
+- Applied OOP principles:  
+  - **Encapsulation** to hide sensitive data and approval logic  
+  - **Inheritance** for different loan types  
+  - **Polymorphism** for loan-specific approval and EMI calculation  
+  - **Access modifiers** to restrict loan status updates  
+- Used the standard EMI formula for monthly repayment calculation.  
+
+---
+
+### Debugging & Compiler Compatibility (C# 5)  
+- Encountered and resolved multiple **C# compiler errors** due to older language version (C# 5).  
+- Learned the difference between **Java syntax and C# syntax**.  
+- Refactored code to ensure full **C# 5 compatibility**.  
+- Successfully compiled and executed programs using the `csc` compiler.  
+
+---
+
+# 📘 Daily Learning Log – 13 January 2026
+
+## 👨‍💻 Technology Focus
+- C#
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Console Application Design
+- Best Practices in C#
+
+---
+
+## ✅ Tasks & Topics Covered
+
+---
+
+### 1️⃣ C# Best Practices
+
+#### 🔹 StringBuilder
+**Use Case:**  
+Used when performing **multiple string operations** such as concatenation, insertion, or modification—especially inside loops.
+
+**Why StringBuilder?**
+- `string` is immutable → creates new objects every time
+- `StringBuilder` is mutable → better memory & performance
+
+**Best Practices:**
+- Prefer over `string` in performance-critical scenarios
+- Use `Append()` instead of `+`
+- Initialize with capacity when size is known
+
+**Scenario Based cinsole app:**  
+- MoviesScheduleSystem
+- BookBuddy
+`This two scenario based problem solved yesterday`
+
+
+# 📅 14 January 2026
+## 📘 Day Task – AddressBookSystem (UC1 to UC11)
+
+Today’s Task – Scenario Based Problem Implementation using C#
+## 🎯 Problem Scenario
+
+The **AddressBookSystem** is a **real-world, scenario-based console application** that simulates how an address book works in daily life.  
+The system allows users to manage personal contacts across **multiple address books**, ensuring **data integrity, scalability, and proper object-oriented design**.
+
+The goal of this task was to design and implement the Address Book system step-by-step using **Use Cases (UC1 to UC11)** while strictly following **Object-Oriented Programming principles**.
+
+---
+
+## 🧩 Scenario Explanation
+
+In real life:
+- A user can maintain **multiple address books** (e.g., Personal, Office).
+- Each address book contains **multiple contacts**.
+- Each contact has personal details like name, address, city, state, phone number, and email.
+- The system should prevent duplicate entries and allow searching, sorting, and grouping.
+
+This project models the above scenario using a **menu-driven console application**.
+
+---
+
+## ✅ Use Cases Implemented Today
+
+### UC1 – Create Contact
+- Ability to create a contact with complete personal details.
+
+### UC2 – Add Contact to Address Book
+- Add a new contact to an address book using console input.
+
+### UC3 – Edit Existing Contact
+- Edit contact details using the person’s first name.
+
+### UC4 – Delete Contact
+- Delete a contact by using the person’s name.
+
+### UC5 – Add Multiple Contacts
+- Use collections to store multiple contacts in one address book.
+
+### UC6 – Multiple Address Books
+- Maintain multiple address books using a dictionary.
+- Each address book has a unique name.
+
+### UC7 – Duplicate Entry Check
+- Prevent duplicate contact entries.
+- Duplicate check is done using person name.
+- `Equals()` and `GetHashCode()` are overridden.
+
+### UC8 – Search by City or State
+- Search persons across all contacts based on city or state.
+
+### UC9 – View Persons by City or State
+- View contacts grouped by city or state using dictionaries.
+
+### UC10 – Count Contacts by City or State
+- Display the number of contacts belonging to each city or state.
+
+### UC11 – Sort Contacts by Name
+- Sort contact entries alphabetically by person name.
+
+---
+
+# 📅 15 January 2026
+## 📘 Day Task – OOPS, C# Core Concepts & Console Application Enhancements
+
+Today’s task focused on **strengthening Object-Oriented Programming concepts**, understanding **core C# behavior**, and improving **console application design and structure**.
+
+---
+
+## ✅ What I Have Done
+
+- Practiced and revised **core OOPS concepts** including:
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+- Understood and implemented **upcasting and downcasting** with practical examples.
+- Studied the difference between:
+  - Method overriding vs method hiding
+  - Abstract class vs interface
+- Analyzed **default access modifiers** in C# for:
+  - Classes
+  - Methods
+  - Variables
+- Converted existing console logic into a **proper OOPS-based project structure**.
+- Refactored code to follow **C# naming conventions** and best practices.
+- Designed **menu-driven console applications** with clean separation of concerns.
+- Improved code readability and maintainability by using **file-wise class separation**.
+
+---
+
+# 📅 16 January 2026
+## 📘 Day Task – BookShelf Library Organizer (Custom Data Structures in C#)
+
+Today’s task focused on implementing a **real-world scenario-based library system** using **custom data structures** without relying on the built-in collection framework.
+
+---
+
+## ✅ What I Have Done
+
+- Designed and developed a **menu-driven C# console application** named **BookShelf – Library Organizer**.
+- Implemented a **genre-wise book management system**.
+- Created a **custom dictionary using nested arrays** to map genres to books.
+- Built a **custom singly linked list** to store and manage books efficiently.
+- Implemented core features:
+  - Add book
+  - Remove book
+  - Display library catalog
+- Added **duplicate book validation logic** without using `HashSet`.
+- Structured the project in a **clean, file-wise manner**.
+- Applied **core OOPS principles** throughout the application design.
+- Generated **sample input–output flows** and documentation for the application.
+- Created **README.md and daily task documentation** for the project.
+
+---
+# 📅 17 January 2026
+## 📘 Day Task – FlashSalesApp (Product Sorting by Discount using Quick Sort)
+
+Today’s task focused on implementing a **real-world e-commerce flash sale scenario** using **DSA and OOPS concepts** in **C#**, with emphasis on **efficient sorting of large, unsorted data**.
+
+---
+
+## ✅ What I Have Done
+
+- Designed and developed a **menu-driven C# console application** named **FlashSalesApp**.
+- Implemented a **product discount–based sorting system** for flash sale scenarios.
+- Used **Quick Sort algorithm** to efficiently sort products by **highest discount first**.
+- Built a **custom array-based product storage system** without using the collection framework.
+- Created a **user-driven input mechanism** to avoid hard-coded values.
+- Implemented core features:
+  - Add product details dynamically
+  - Sort products by discount
+  - Display sorted product list
+- Applied **interface-based abstraction** to decouple sorting logic.
+- Encapsulated product data using **private setters and controlled access**.
+- Structured the application using **clear file-wise separation of responsibilities**.
+- Followed **proper C# naming conventions and coding standards**.
+- Ensured the design supports **scalability and maintainability**.
+- Generated **sample execution flows and documentation** for better understanding.
+- Created **README.md and daily task documentation** for the application.
+---
+
+# 📅 19 January 2026
+## 📘 Day Task – DSA Scenario-Based Console Applications (Linked List, Stack & HashMap)
+
+Today’s task focused on implementing **real-world scenario-based problems** using **core Data Structures and Algorithms (DSA)** in **C#**, along with proper **problem modeling and functional design**.
+
+---
+
+## 🎯 Problem Scenarios Covered
+
+### 1️⃣ ParcelTracker – Delivery Chain Management  
+**(Singly Linked List)**
+
+### 🧩 Scenario Explanation
+In a courier company, each parcel goes through a sequence of delivery stages such as:  
+**Packed → Shipped → In Transit → Delivered**.  
+Each stage is represented as a **node in a Singly Linked List**, enabling forward-only traversal of the delivery chain.
+
+---
+
+### ✅ Requirements Implemented
+- Forward tracking through delivery stages using a **Singly Linked List**.
+- Added support for **custom intermediate checkpoints** (e.g., Customs Check, Warehouse Hold).
+- Implemented logic to handle **lost or missing parcels** using `null` pointer checks.
+- Traversed the delivery chain safely without runtime failures.
+- Modeled each delivery stage as an independent node for better clarity.
+
+---
+
+### 🔑 DSA Concepts Used
+- Custom **Singly Linked List**
+- Node traversal
+- Null-pointer handling
+- Real-life chain modeling
+
+---
+
+### 2️⃣ ExamProctor – Online Exam Review System  
+**(Stack + HashMap + Functions)**
+
+### 🧩 Scenario Explanation
+During an online exam:
+- A student navigates between questions.
+- The **last visited question** must be tracked.
+- Each question’s answer must be stored and evaluated at submission time.
+
+---
+
+### ✅ Requirements Implemented
+- Tracked question navigation using a **Stack (LIFO)**.
+- Stored answers using a **HashMap (Dictionary)**:  
+  `QuestionID → Answer`
+- Implemented **functions** to:
+  - Calculate score automatically
+  - Compare submitted answers with correct answers
+- Ensured separation of navigation logic and evaluation logic.
+- Simulated real online exam behavior.
+
+---
+
+### 🔑 DSA Concepts Used
+- Stack for navigation history
+- HashMap for answer storage
+- Functional approach for score evaluation
+- Real-time exam flow simulation
+
+---
+
+## 🛠 Additional Concepts Practiced
+
+### 🔹 Performance Best Practices
+- Preferred efficient data handling over raw `string` concatenation.
+- Used optimized approaches for data manipulation in logic-heavy sections.
+- Understood when to initialize data structures with predefined capacity.
+
+---
+
+## 📌 Previous Day Continuation
+The following **scenario-based console applications were already completed yesterday**:
+
+- **MoviesScheduleSystem**
+- **BookBuddy**
+
+These projects reinforced:
+- Menu-driven application design
+- Real-world scenario mapping
+- Proper use of collections and OOPS principles
+---
+
+# 20 January 2026  
+
+## Tasks Completed  
+
+### DSA Story-Based Problems  
+- Designed **Aadhar Number Sorting System**:  
+  - Used **Radix Sort** for 12-digit numbers  
+  - Maintained stability for same prefixes  
+  - Implemented **Binary Search** post-sorting  
+
+### Advanced Problem Solving  
+- Worked on **Backtracking-based problems** (Password Cracker Simulator).  
+- Debugged and completed incomplete C# code.  
+
+### Learning Focus  
+- Writing **exam-ready**, **interview-ready**, and **enterprise-style** code.  
+- Strengthened confidence in explaining **why a data structure or algorithm is used**. 
