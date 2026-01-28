@@ -879,3 +879,59 @@ These projects reinforced:
 - Gained clarity on **why and when** to use specific data structures  
 
 ---
+## 🗓️ 22 January 2026 – Advanced C# & Streams
+
+### Topics Covered
+- PipeStream in C#
+- Internal data communication concepts
+
+### Key Learnings
+- Learned the use of **PipeStream** for inter-process and inter-thread communication.
+- Understood scenarios where **anonymous pipes** and **named pipes** are used.
+- Created **markdown-based documentation** for technical concepts.
+
+---
+
+## 🗓️ 23 January 2026 – Unit Testing & Regular Expressions
+
+### Topics Covered
+- Unit Testing in C#
+- NUnit vs MSTest
+- Regular Expressions (Regex)
+
+### Key Learnings
+- Practiced writing **unit test cases** using NUnit and MSTest frameworks.
+- Implemented test cases for:
+  - Calculator operations
+  - String utilities
+  - List operations
+  - Exception handling (division by zero)
+- Compared **NUnit vs MSTest** in tabular format for interview preparation.
+- Learned **Regex patterns** for validation and string matching.
+- Created **structured project folders** for test-driven development.
+
+---
+
+## 🗓️ 27 January 2026 – Code Quality & SonarQube
+
+### Topics Covered
+- SonarQube Overview
+- SonarScanner for .NET
+- Code Quality, Bugs, and Code Smells
+
+### Key Learnings
+- Installed and configured **SonarQube** locally.
+- Learned how to integrate SonarQube with a **.NET C# project**.
+- Implemented SonarQube analysis for:
+  - Calculator Project
+  - AddressBook Application
+- Used global **dotnet-sonarscanner** tool for analysis.
+
+### Commands Practiced
+```bash
+dotnet sonarscanner begin
+dotnet build
+dotnet test
+dotnet sonarscanner end
+```
+---
