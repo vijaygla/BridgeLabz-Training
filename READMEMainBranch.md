@@ -935,3 +935,60 @@ dotnet test
 dotnet sonarscanner end
 ```
 ---
+## 📅 Date 28 January 2026
+## ✅ Tasks Completed
+
+### 📄 CSV File Operations
+- Created and used multiple CSV files:
+  - `students.csv`
+  - `users.csv`
+  - `employees.csv`
+  - `big.csv`
+- Read CSV data using:
+  - `File.ReadAllLines()`
+  - `StreamReader`
+- Wrote structured data into CSV files using:
+  - `File.WriteAllLines()`
+  - `StreamWriter`
+- Counted records excluding the header row.
+
+---
+
+### 🔍 Data Processing & Logic
+- Filtered CSV records based on conditions (e.g., students with marks > 80).
+- Searched records by specific fields (employee name).
+- Updated CSV data (10% salary increment for IT department).
+- Sorted records by salary and extracted top 5 highest-paid employees.
+- Detected duplicate records using LINQ grouping.
+
+---
+
+### 🧪 Data Validation
+- Validated **Email** format using Regular Expressions.
+- Validated **Phone Numbers** (exactly 10 digits).
+- Printed invalid CSV rows with appropriate error identification.
+
+---
+
+### 🔄 CSV ↔ JSON Conversion
+- Converted `students.json` → `students.csv`.
+- Converted `students.csv` → `students_from_csv.json`.
+- Resolved .NET 8 JSON serialization issues using:
+  - `DefaultJsonTypeInfoResolver`.
+
+---
+
+### 🚀 Performance Handling
+- Implemented **memory-efficient reading** for large CSV files (500MB+).
+- Processed CSV data in chunks of **100 lines** using `StreamReader`.
+
+---
+
+### 🔐 Security (Encryption & Decryption)
+- Implemented **AES encryption and decryption**.
+- Encrypted sensitive fields such as:
+  - Email
+  - Salary
+- Decrypted data safely while reading from CSV files.
+
+---
