@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 1,
+        "Name": "Alice",
+        "Age": 20,
+        "Marks": 85
+    },
+    {
+        "Id": 2,
+        "Name": "Bob",
+        "Age": 21,
+        "Marks": 78
+    },
+    {
+        "Id": 3,
+        "Name": "Charlie",
+        "Age": 19,
+        "Marks": 92
+    },
+    {
+        "Id": 4,
+        "Name": "David",
+        "Age": 22,
+        "Marks": 67
+    },
+    {
+        "Id": 5,
+        "Name": "Eve",
+        "Age": 20,
+        "Marks": 88
+    },
+    {
+        "Id": 6,
+        "Name": "Frank",
+        "Age": 23,
+        "Marks": 54
+    },
+    {
+        "Id": 7,
+        "Name": "Grace",
+        "Age": 21,
+        "Marks": 95
+    },
+    {
+        "Id": 8,
+        "Name": "Helen",
+        "Age": 19,
+        "Marks": 72
+    },
+    {
+        "Id": 9,
+        "Name": "Ian",
+        "Age": 22,
+        "Marks": 81
+    },
+    {
+        "Id": 10,
+        "Name": "Judy",
+        "Age": 20,
+        "Marks": 90
+    }
+]
