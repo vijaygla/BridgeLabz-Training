@@ -1,0 +1,6 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.ConsoleApp\obj\Debug\net10.0\AddressBookSonarQube.ConsoleApp.csproj.AssemblyReference.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.ConsoleApp\obj\Debug\net10.0\AddressBookSonarQube.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.ConsoleApp\obj\Debug\net10.0\AddressBookSonarQube.ConsoleApp.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.ConsoleApp\obj\Debug\net10.0\AddressBookSonarQube.ConsoleApp.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.ConsoleApp\obj\Debug\net10.0\AddressBookSonarQube.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.ConsoleApp\obj\Debug\net10.0\AddressBookSonarQube.ConsoleApp.sourcelink.json

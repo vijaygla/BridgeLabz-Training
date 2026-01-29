@@ -3,3 +3,10 @@ C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSo
 C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.AssemblyInfo.cs
 C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.csproj.CoreCompileInputs.cache
 C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\bin\Debug\net10.0\AddressBookSonarQube.Core.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\bin\Debug\net10.0\AddressBookSonarQube.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\bin\Debug\net10.0\AddressBookSonarQube.Core.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\refint\AddressBookSonarQube.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\ref\AddressBookSonarQube.Core.dll

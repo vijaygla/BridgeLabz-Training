@@ -1,0 +1,8 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_AddressBookSonarQube.Tests
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_AddressBookSonarQube.Tests
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Tests\obj\Debug\net10.0\AddressBookSonarQube.Tests.csproj.AssemblyReference.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Tests\obj\Debug\net10.0\AddressBookSonarQube.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Tests\obj\Debug\net10.0\AddressBookSonarQube.Tests.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Tests\obj\Debug\net10.0\AddressBookSonarQube.Tests.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Tests\obj\Debug\net10.0\AddressBookSonarQube.Tests.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Tests\obj\Debug\net10.0\AddressBookSonarQube.Tests.sourcelink.json
