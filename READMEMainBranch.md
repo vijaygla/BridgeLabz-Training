@@ -992,3 +992,34 @@ dotnet sonarscanner end
 - Decrypted data safely while reading from CSV files.
 
 ---
+# 📅 Date 29 January 2026
+## ✅ Tasks Completed Today
+
+### 1️⃣ OceanFleet Analytics Console Application (.NET)
+
+- Converted the **OceanFleet Java problem statement** into a **C# (.NET) console application**
+- Followed proper **OOP design**
+- Implemented all required components:
+  - `Vessel` model class
+  - `VesselUtil` utility class
+  - `Program` (User Interface)
+
+#### ✔ Features Implemented
+- Add vessel performance details
+- Retrieve vessel details by **case-sensitive vesselId**
+- Identify **high-performance vessels** (highest average speed)
+- Display output in the required format
+- Used `List<Vessel>` collection
+- Used LINQ for searching and filtering
+
+---
+### 2️⃣ Project Structure Design (Address Book Application with SonarQube)
+
+The Address Book application follows a **layered architecture** to ensure:
+- Clean separation of concerns
+- High maintainability
+- Better **SonarQube code quality scores**
+- Easy unit testing
+---
+
+# Date 30 january 2026
