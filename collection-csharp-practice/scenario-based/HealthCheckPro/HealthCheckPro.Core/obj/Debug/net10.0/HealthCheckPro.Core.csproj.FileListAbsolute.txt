@@ -1,0 +1,12 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\bin\Debug\net10.0\HealthCheckPro.Core.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\bin\Debug\net10.0\HealthCheckPro.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\bin\Debug\net10.0\HealthCheckPro.Core.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\HealthCheckPro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\HealthCheckPro.Core.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\HealthCheckPro.Core.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\HealthCheckPro.Core.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\HealthCheckPro.Core.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\HealthCheckPro.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\refint\HealthCheckPro.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\HealthCheckPro.Core.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\HealthCheckPro\HealthCheckPro.Core\obj\Debug\net10.0\ref\HealthCheckPro.Core.dll

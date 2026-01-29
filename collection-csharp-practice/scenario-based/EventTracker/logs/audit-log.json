@@ -1,14 +1,32 @@
 [
-    {
-      "EventName": "User Event",
-      "MethodName": "Login",
-      "Timestamp": "2026-01-28T14:32:10",
-      "PerformedBy": "vijay"
-    },
-    {
-      "EventName": "File Upload",
-      "MethodName": "UploadFile",
-      "Timestamp": "2026-01-28T14:33:05",
-      "PerformedBy": "vijay"
-    }
+  {
+    "EventName": "User Event",
+    "MethodName": "Login",
+    "Timestamp": "2026-01-28T14:32:10",
+    "PerformedBy": "vijay"
+  },
+  {
+    "EventName": "File Upload",
+    "MethodName": "UploadFile",
+    "Timestamp": "2026-01-28T14:33:05",
+    "PerformedBy": "vijay"
+  },
+  {
+    "EventName": "User Login",
+    "MethodName": "Login",
+    "Timestamp": "2026-01-29T06:32:48.6985897+05:30",
+    "PerformedBy": "pmdhrs"
+  },
+  {
+    "EventName": "File Upload",
+    "MethodName": "UploadFile",
+    "Timestamp": "2026-01-29T06:32:55.9056209+05:30",
+    "PerformedBy": "pmdhrs"
+  },
+  {
+    "EventName": "File Deletion",
+    "MethodName": "DeleteFile",
+    "Timestamp": "2026-01-29T06:33:01.784253+05:30",
+    "PerformedBy": "pmdhrs"
+  }
 ]
