@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthCheckPro.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7346880e82909e334b14e3f52839e08a3e8fac9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+931d6b64ab5f5c71d9aa261728ad68601a831924")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthCheckPro.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthCheckPro.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
