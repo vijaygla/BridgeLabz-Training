@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddressBookSonarQube.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1137d27b97651210dd8d520cb570f8a9932a386c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f93940e012ce8a620fcb61c31ec705614d0d6da")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddressBookSonarQube.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddressBookSonarQube.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
