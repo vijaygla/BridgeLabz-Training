@@ -1023,3 +1023,91 @@ The Address Book application follows a **layered architecture** to ensure:
 ---
 
 # Date 30 january 2026
+
+### ✅ Project Built
+
+**LexicalTextAnalyser (Console Application)**
+
+A console-based application developed to analyze and process textual data using various **string concepts in C#**.
+
+---
+
+### ✅ Topics & Concepts Used
+
+- String manipulation techniques
+- Character analysis
+- Conditional logic and loops
+- Menu-driven console application design
+- Use of `StringBuilder` for performance optimization
+
+---
+
+### 🧪 Functionalities Implemented
+
+- Text input and validation
+- Word count and character count
+- Vowel and consonant identification
+- Reverse text analysis
+- Case-insensitive string comparison
+- Symbol and whitespace handling
+
+---
+
+### 📌 Key Learnings
+
+- Deep understanding of core **string operations in C#**
+- Writing modular and reusable methods
+- Handling edge cases in text processing
+- Improving performance using `StringBuilder` over string concatenation
+
+---
+
+
+
+## 📅 Date: **02 February**
+
+### ✅ Topics Covered
+
+- File handling in C# (.NET)
+- CSV data handling concepts
+- JSON data handling concepts
+- LINQ and lambda expressions
+- Stream-style data processing using LINQ
+
+### 🧪 Practical Work
+
+- Read and write CSV files
+- Converted CSV data to objects
+- Performed operations on CSV data:
+  - Filter
+  - Sort
+  - Search
+  - Update
+  - Merge
+- Practiced JSON operations:
+  - Read JSON
+  - Extract fields
+  - Convert CSV ↔ JSON
+- Used LINQ methods:
+  - `Where`
+  - `Select`
+  - `Any`
+  - `All`
+  - `GroupBy`
+
+### 📌 Key Learnings
+
+- Efficient data processing using LINQ
+- Difference between traditional loops and stream-style processing
+- Real-world usage of file handling in .NET projects
+
+---
+
+## 🏁 Summary
+
+- Strengthened fundamentals of **C# and .NET**
+- Improved problem-solving and debugging skills
+- Gained hands-on experience with **real-world data formats (CSV & JSON)**
+- Learned to write cleaner, more maintainable code using modern C# features
+
+---
