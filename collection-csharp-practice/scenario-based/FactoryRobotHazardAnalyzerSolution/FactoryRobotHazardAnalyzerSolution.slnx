@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FactoryRobotHazardAnalyzer.Tests/FactoryRobotHazardAnalyzer.Tests.csproj" />
+  <Project Path="FactoryRobotHazardAnalyzer/FactoryRobotHazardAnalyzer.csproj" />
+</Solution>
