@@ -1111,3 +1111,112 @@ A console-based application developed to analyze and process textual data using 
 - Learned to write cleaner, more maintainable code using modern C# features
 
 ---
+## 📅 Date: 03 February
+
+### ✅ Topics Covered
+
+- Custom exception handling in C#
+- Object-oriented programming concepts
+- Input validation techniques
+- Console application project structure
+- Problem-solving using C#
+
+### 🧪 Practical Work
+
+- Developed **Factory Robot Hazard Analyzer** system
+- Implemented hazard risk calculation logic using:
+  - Arm precision
+  - Worker density
+  - Machinery state
+- Added input validation for all parameters
+- Created custom exception for invalid scenarios
+- Structured project into logical classes
+
+### 📌 Key Learnings
+
+- Importance of validation in real-world systems
+- Using custom exceptions for better error handling
+- Writing modular and maintainable code
+- Applying OOP concepts in practical projects
+
+---
+
+## 📅 Date: 04 February
+
+### ✅ Topics Covered
+
+- SQL Server DDL and DML operations
+- Transactions in SQL Server
+- DELETE vs TRUNCATE vs DROP
+- ROLLBACK and COMMIT concepts
+- Data modification commands
+
+### 🧪 Practical Work
+
+- Created and modified tables in PracticeDDL database
+- Executed DELETE operations inside transactions
+- Practiced ROLLBACK to restore deleted data
+- Tested TRUNCATE behavior with transactions
+- Compared DELETE, TRUNCATE, and DROP operations
+
+### 📌 Key Learnings
+
+- Difference between logical delete and physical data removal
+- Transaction control for data safety
+- When to use DELETE, TRUNCATE, or DROP in real scenarios
+- Understanding database recovery behavior
+
+---
+
+## 📅 Date: 05 February
+
+### ✅ Topics Covered
+
+- Unit testing concepts in .NET
+- MSTest framework setup
+- Test project creation
+- Test case structure and execution
+- ADO.NET introduction
+
+### 🧪 Practical Work
+
+- Created MSTest project for console application
+- Added unit tests for project logic
+- Configured test environment
+- Practiced writing test methods and assertions
+- Integrated testing with existing project solution
+
+### 📌 Key Learnings
+
+- Importance of testing in software development
+- Writing reliable and repeatable test cases
+- Separating business logic for testing
+- Basics of test-driven thinking
+
+---
+
+## 📅 Date: 07 February
+
+### ✅ Topics Covered
+
+- Connecting MS SQL Server with C# (.NET)
+- ADO.NET database connectivity
+- SqlConnection and connection strings
+- Git branch management
+
+### 🧪 Practical Work
+
+- Connected console application to SQL Server database
+- Opened and verified database connection programmatically
+- Implemented connection handling using `using` statement
+- Practiced Git commands:
+  - Create branch
+  - Switch branch
+  - Delete branch
+
+### 📌 Key Learnings
+
+- How applications interact with databases using ADO.NET
+- Safe resource management using `using` block
+- Understanding connection strings
+- Managing project versions using Git branches
