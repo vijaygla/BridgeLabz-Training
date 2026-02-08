@@ -2,7 +2,8 @@
 using AddressBookSonarQube.Core.Models;
 using AddressBookSonarQube.Core.Services;
 
-var service = new AddressBookService();
+const string filePath = "addressbook.json";
+var service = new AddressBookService(filePath);
 
 while (true)
 {
@@ -78,16 +79,16 @@ while (true)
                 break;
             case 8:
                 var cityCounts = service.CountByCity();
-                foreach (var (city, count) in cityCounts)
+                foreach (var (cityName, count) in cityCounts)
                 {
-                    Console.WriteLine($"City: {city}, Count: {count}");
+                    Console.WriteLine($"City: {cityName}, Count: {count}");
                 }
                 break;
             case 9:
                 var stateCounts = service.CountByState();
-                foreach (var (state, count) in stateCounts)
+                foreach (var (stateName, count) in stateCounts)
                 {
-                    Console.WriteLine($"State: {state}, Count: {count}");
+                    Console.WriteLine($"State: {stateName}, Count: {count}");
                 }
                 break;
             case 10:

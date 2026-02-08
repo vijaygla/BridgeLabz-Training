@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj": {}
+    "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj": {}
   },
   "projects": {
-    "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj": {
+    "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj",
+        "projectUniqueName": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj",
         "projectName": "AddressBookSonarQube.Core",
-        "projectPath": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj",
+        "projectPath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\obj\\",
+        "outputPath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -337,14 +337,14 @@
         }
       }
     },
-    "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj": {
+    "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj",
+        "projectUniqueName": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj",
         "projectName": "AddressBookSonarQube.Tests",
-        "projectPath": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj",
+        "projectPath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj",
         "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\obj\\",
+        "outputPath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -359,8 +359,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj": {
-                "projectPath": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj"
+              "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj": {
+                "projectPath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj"
               }
             }
           }

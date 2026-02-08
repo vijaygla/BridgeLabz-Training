@@ -10,3 +10,15 @@ C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSo
 C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\refint\AddressBookSonarQube.Core.dll
 C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.pdb
 C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\ref\AddressBookSonarQube.Core.dll
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\bin\Debug\net10.0\AddressBookSonarQube.Core.deps.json
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\bin\Debug\net10.0\AddressBookSonarQube.Core.dll
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\bin\Debug\net10.0\AddressBookSonarQube.Core.pdb
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.AssemblyInfoInputs.cache
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.AssemblyInfo.cs
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.sourcelink.json
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.dll
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\refint\AddressBookSonarQube.Core.dll
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.pdb
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\ref\AddressBookSonarQube.Core.dll

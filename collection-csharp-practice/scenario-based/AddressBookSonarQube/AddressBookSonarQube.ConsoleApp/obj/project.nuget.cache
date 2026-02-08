@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71/ERoJ0g+w=",
+  "dgSpecHash": "cqm0bI/Hw3Q=",
   "success": true,
-  "projectFilePath": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp\\AddressBookSonarQube.ConsoleApp.csproj",
+  "projectFilePath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp\\AddressBookSonarQube.ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

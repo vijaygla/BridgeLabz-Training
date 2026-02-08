@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Ernu+1/m5g=",
+  "dgSpecHash": "tUp5KKfBTb0=",
   "success": true,
-  "projectFilePath": "C:\\v\\BridgeLabz-Training\\collection-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj",
+  "projectFilePath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookSonarQube.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmdhrs\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\pmdhrs\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
