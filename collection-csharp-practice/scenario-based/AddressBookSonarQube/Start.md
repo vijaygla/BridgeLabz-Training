@@ -10,6 +10,13 @@ dotnet run
 ```
 
 ## View
+<img src="sonarqube.png"/>
+<img src="sonarqube2.png"/>
+
+[Open SonarQube](http://localhost:9000)
+
+##
+> 
 PS C:\v\dotnet-project\AddressBookSonarQube> dotnet sonarscanner begin /k:"AddressBookSolution" /d:sonar.host.url="http://localhost:9000"  /d:sonar.token="sqp_c33a47ab958506d4e8959e7edb26353e12a94341"
 SonarScanner for .NET 11.0
 Using the .NET Core version of the Scanner for .NET
