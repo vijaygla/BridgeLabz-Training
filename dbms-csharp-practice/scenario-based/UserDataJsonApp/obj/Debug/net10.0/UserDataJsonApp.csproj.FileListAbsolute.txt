@@ -1,0 +1,15 @@
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\bin\Debug\net10.0\UserDataJsonApp.exe
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\bin\Debug\net10.0\UserDataJsonApp.deps.json
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\bin\Debug\net10.0\UserDataJsonApp.runtimeconfig.json
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\bin\Debug\net10.0\UserDataJsonApp.dll
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\bin\Debug\net10.0\UserDataJsonApp.pdb
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\UserDataJsonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\UserDataJsonApp.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\UserDataJsonApp.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\UserDataJsonApp.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\UserDataJsonApp.sourcelink.json
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\UserDataJsonApp.dll
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\refint\UserDataJsonApp.dll
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\UserDataJsonApp.pdb
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\UserDataJsonApp.genruntimeconfig.cache
+C:\v\BridgeLabz-Training\dbms-csharp-practice\scenario-based\UserDataJsonApp\obj\Debug\net10.0\ref\UserDataJsonApp.dll
