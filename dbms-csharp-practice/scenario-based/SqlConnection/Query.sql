@@ -1,8 +1,8 @@
 CREATE DATABASE SqlConnection;
 GO
-
 USE SqlConnection;
 
+DROP TABLE if EXISTS Employees;
 CREATE TABLE Employees
 (
     Id INT PRIMARY KEY IDENTITY,
