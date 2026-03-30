@@ -1,0 +1,5 @@
+The .NET 10.0 framework is not a valid or supported target framework. The latest Long Term Support (LTS) version is .NET 8.0, and the current stable version is also .NET 8.0.
+
+Could you please clarify what you mean by "set my project at version 10"?
+    
+If you intended to target .NET 8.0, the project is already configured for that. If you meant something else, please provide more details.
