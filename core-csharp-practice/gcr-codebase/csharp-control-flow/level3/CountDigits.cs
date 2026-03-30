@@ -1,0 +1,21 @@
+using System;
+
+class CountDigits
+{
+    static void Main(String[] args)
+    {
+        Console.Write("Enter a number: ");
+        int number = int.Parse(Console.ReadLine());
+
+        // intitilise the count value zero
+        int count = 0;
+
+        while (number != 0)
+        {
+            number = number / 10; // remove last digit
+            count++;
+        }
+
+        Console.WriteLine("Number of digits = " + count);
+    }
+}
