@@ -1220,3 +1220,285 @@ A console-based application developed to analyze and process textual data using 
 - Safe resource management using `using` block
 - Understanding connection strings
 - Managing project versions using Git branches
+
+
+## 📅 Date: 08 February
+
+### ✅ Topics Covered
+
+* Mock Test Preparation
+* Problem Solving (DSA & Logic Building)
+* Time Management during coding tests
+
+### 🧪 Practical Work
+
+* Solved mock test questions
+* Practiced coding under time constraints
+* Reviewed incorrect solutions
+
+### 📌 Key Learnings
+
+* Importance of optimizing solutions
+* Managing time effectively in assessments
+* Identifying weak areas for improvement
+
+## 📅 Date: 10 February
+
+### ✅ Topics Covered
+
+* Mock Test Execution
+* Problem Solving Approach
+
+### 🧪 Practical Work
+
+* Attempted mock test (2+1 questions)
+* Debugged and optimized solutions
+
+### 📌 Key Learnings
+
+* Writing clean and efficient code under pressure
+* Debugging quickly during exams
+
+## 📅 Date: 11 February
+
+### ✅ Topics Covered
+
+* DBMS Concepts
+* SQL Queries and Data Handling
+
+### 🧪 Practical Work
+
+* Practiced SQL queries (SELECT, INSERT, UPDATE)
+* Worked on DBMS assignment submission
+
+### 📌 Key Learnings
+
+* Understanding database operations
+* Writing efficient SQL queries
+
+## 📅 Date: 12 February
+
+### ✅ Topics Covered
+
+* Multithreading Concepts
+* Async Programming
+* Notification System Design
+
+### 🧪 Practical Work
+
+* Designed concurrent notification system
+* Implemented async processing using Task
+
+### 📌 Key Learnings
+
+* Handling concurrency safely
+* Using async/await for performance
+
+## 📅 Date: 13 February
+
+### ✅ Topics Covered
+
+* Regex & Validation
+* Exception Handling
+* File Handling Basics
+
+### 🧪 Practical Work
+
+* Implemented email validator using Regex
+* Validated user input with patterns
+
+### 📌 Key Learnings
+
+* Writing regex for real-world validation
+* Handling invalid inputs using exceptions
+
+## 📅 Date: 14 February
+
+### ✅ Topics Covered
+
+* Advanced DSA Practice
+* Problem Solving Techniques
+
+### 🧪 Practical Work
+
+* Solved scenario-based DSA problems
+* Improved logical thinking
+
+### 📌 Key Learnings
+
+* Breaking complex problems into smaller parts
+* Improving algorithm efficiency
+
+## 📅 Date: 17 February
+
+### ✅ Topics Covered
+
+* Project Introduction: Quantity Measurement App
+* Git Branch Strategy
+* Coding Standards & SOLID Principles
+
+### 🧪 Practical Work
+
+* Created project structure
+* Implemented initial setup
+* Practiced Git commit conventions
+
+### 📌 Key Learnings
+
+* Importance of clean architecture
+* Writing maintainable and scalable code
+
+## 📅 Date: 18 February
+
+### ✅ Topics Covered
+
+* Assessment Instructions & Best Practices
+
+### 🧪 Practical Work
+
+* Followed coding standards during test
+* Practiced discipline during assessments
+
+### 📌 Key Learnings
+
+* Importance of following guidelines strictly
+* Maintaining focus during assessments
+
+## 📅 Date: 19 February
+
+### ✅ Topics Covered
+
+* Unit Testing Basics
+* Generic Programming
+* Length Measurement (UC1–UC4)
+
+### 🧪 Practical Work
+
+* Implemented feet & inches equality
+* Created generic quantity class
+* Extended unit support
+
+### 📌 Key Learnings
+
+* Writing reusable code using generics
+* Applying DRY principle
+
+## 📅 Date: 20 February
+
+### ✅ Topics Covered
+
+* Unit Conversion Logic
+* Addition Operations on Units
+
+### 🧪 Practical Work
+
+* Implemented unit-to-unit conversion
+* Added length units with conversion
+
+### 📌 Key Learnings
+
+* Handling conversions accurately
+* Performing arithmetic operations on units
+
+## 📅 Date: 21 February
+
+### ✅ Topics Covered
+
+* Advanced Quantity Features (UC5–UC14)
+* Volume & Temperature Measurement
+* Refactoring & DRY Principle
+
+### 🧪 Practical Work
+
+* Implemented subtraction & division
+* Added volume conversions (litre, ml, gallon)
+* Refactored arithmetic logic
+
+### 📌 Key Learnings
+
+* Code reusability through refactoring
+* Handling multiple unit categories
+
+## 📅 Date: 22 February
+
+### ✅ Topics Covered
+
+* Code Optimization
+* Refactoring Techniques
+
+### 🧪 Practical Work
+
+* Improved existing code structure
+* Removed redundancy
+
+### 📌 Key Learnings
+
+* Writing clean and optimized code
+* Importance of maintainability
+
+## 📅 Date: 24 February
+
+### ✅ Topics Covered
+
+* M1 Exam Preparation
+* System Design & Exception Handling
+
+### 🧪 Practical Work
+
+* Revised concepts
+* Practiced scenario-based coding
+
+### 📌 Key Learnings
+
+* Preparing for real-time coding scenarios
+* Strengthening core concepts
+
+## 📅 Date: 25 February
+
+### ✅ Topics Covered
+
+* M1 Examination
+* Practical Implementation Skills
+
+### 🧪 Practical Work
+
+* Attempted M1 exam
+* Handled real-time coding problems
+
+### 📌 Key Learnings
+
+* Applying knowledge under pressure
+* Writing production-level code
+
+## 📅 Date: 26 February
+
+### ✅ Topics Covered
+
+* Quiz & Assessment Review
+
+### 🧪 Practical Work
+
+* Attempted quiz
+* Reviewed answers and mistakes
+
+### 📌 Key Learnings
+
+* Identifying knowledge gaps
+* Improving accuracy
+
+## 📅 Date: 27 February
+
+### ✅ Topics Covered
+
+* N-Tier Architecture (UC15)
+* Application Refactoring
+
+### 🧪 Practical Work
+
+* Refactored application into layers (UI, BL, DAL)
+* Improved architecture design
+
+### 📌 Key Learnings
+
+* Separation of concerns
+* Building scalable applications using N-Tier architecture
