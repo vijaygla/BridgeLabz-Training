@@ -1,0 +1,15 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\LexiTransform.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\LexiTransform.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\LexiTransform.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\LexiTransform.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\LexiTransform.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\bin\Debug\net10.0\LexiTransform.exe
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\bin\Debug\net10.0\LexiTransform.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\bin\Debug\net10.0\LexiTransform.runtimeconfig.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\bin\Debug\net10.0\LexiTransform.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\bin\Debug\net10.0\LexiTransform.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\LexiTransform.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\refint\LexiTransform.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\LexiTransform.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\LexiTransform.genruntimeconfig.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\LexiTransform\obj\Debug\net10.0\ref\LexiTransform.dll

@@ -1,0 +1,15 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\bin\Debug\net10.0\OceanFleet.exe
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\bin\Debug\net10.0\OceanFleet.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\bin\Debug\net10.0\OceanFleet.runtimeconfig.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\bin\Debug\net10.0\OceanFleet.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\bin\Debug\net10.0\OceanFleet.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\OceanFleet.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\OceanFleet.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\OceanFleet.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\OceanFleet.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\OceanFleet.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\OceanFleet.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\refint\OceanFleet.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\OceanFleet.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\OceanFleet.genruntimeconfig.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\OceanFleet\obj\Debug\net10.0\ref\OceanFleet.dll

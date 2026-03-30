@@ -1,0 +1,23 @@
+[
+  {
+    "Controller": "LabTestController",
+    "Method": "GetLabTests",
+    "IsPublic": true,
+    "RequiresAuthentication": false,
+    "Description": "Fetch all available lab tests"
+  },
+  {
+    "Controller": "LabTestController",
+    "Method": "UploadResults",
+    "IsPublic": true,
+    "RequiresAuthentication": true,
+    "Description": "Upload lab test results"
+  },
+  {
+    "Controller": "PatientController",
+    "Method": "GetPatient",
+    "IsPublic": true,
+    "RequiresAuthentication": true,
+    "Description": "Get patient information"
+  }
+]

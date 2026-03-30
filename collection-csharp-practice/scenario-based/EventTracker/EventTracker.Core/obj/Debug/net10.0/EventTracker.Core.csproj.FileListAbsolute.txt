@@ -1,0 +1,12 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\bin\Debug\net10.0\EventTracker.Core.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\bin\Debug\net10.0\EventTracker.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\bin\Debug\net10.0\EventTracker.Core.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\EventTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\EventTracker.Core.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\EventTracker.Core.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\EventTracker.Core.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\EventTracker.Core.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\EventTracker.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\refint\EventTracker.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\EventTracker.Core.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EventTracker\EventTracker.Core\obj\Debug\net10.0\ref\EventTracker.Core.dll

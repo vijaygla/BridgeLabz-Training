@@ -1,0 +1,12 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\bin\Debug\net10.0\UnitTestingPractice.Core.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\bin\Debug\net10.0\UnitTestingPractice.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\bin\Debug\net10.0\UnitTestingPractice.Core.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\UnitTestingPractice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\UnitTestingPractice.Core.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\UnitTestingPractice.Core.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\UnitTestingPractice.Core.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\UnitTestingPractice.Core.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\UnitTestingPractice.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\refint\UnitTestingPractice.Core.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\UnitTestingPractice.Core.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\gcr-codebase\regex\UnitTestingPractice\UnitTestingPractice.Core\obj\Debug\net10.0\ref\UnitTestingPractice.Core.dll
